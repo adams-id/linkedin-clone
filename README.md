@@ -21,7 +21,7 @@ This LinkedIn Clone replicates key features of a professional networking site, i
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, Tailwind CSS, DaisyUI
+- **Frontend:** React.js, DaisyUI
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Auth & Security:** JWT, bcrypt, secure cookies
