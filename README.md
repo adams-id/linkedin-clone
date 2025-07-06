@@ -1,6 +1,6 @@
 # ✨ LinkedIn Clone
 
-A full-stack social networking platform inspired by LinkedIn. Built with modern technologies like React, Node.js, MongoDB, and Stripe — this clone offers rich user features like authentication, posts, profile management, payments, and real-time social interactions.
+A full-stack social networking platform inspired by LinkedIn. Built with modern technologies like React, Node.js, and MongoDB — this clone offers rich user features like authentication, posts, profile management, payments, and real-time social interactions.
 
 ![Demo Screenshot](/frontend/public/screenshot-for-readme.png)
 
@@ -12,7 +12,7 @@ This LinkedIn Clone replicates key features of a professional networking site, i
 
 ## 📌 Live Demo
 
-🔗 View the live app here [here](https://netflix-clone-cde6.onrender.com)
+🔗 View the live app here [here](https://linkedin-clone-gylh.onrender.com)
 
 > **Note:** The app may take up to a minute to load on first visit.  
 > This is due to hosting on free Render services, which spin down inactive instances.
@@ -27,8 +27,6 @@ This LinkedIn Clone replicates key features of a professional networking site, i
 - **Auth & Security:** JWT, bcrypt, secure cookies
 - **Email Service:** Mailtrap
 - **Cloud Storage:** Cloudinary
-- **Payments:** Stripe
-- **File Upload:** Multer
 
 ---
 
