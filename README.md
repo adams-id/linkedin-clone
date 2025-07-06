@@ -41,7 +41,6 @@ This LinkedIn Clone replicates key features of a professional networking site, i
 - 📰 Smart News Feed Algorithm
 - 📩 Welcome Emails on Signup
 - 🛡️ Strong Data Validation and Protection
-- 💳 Stripe Payment Integration for Premium Features
 - 🎨 Responsive Design with Tailwind and DaisyUI
 
 ---
