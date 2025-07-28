@@ -14,7 +14,8 @@ This LinkedIn Clone replicates key features of a professional networking site, i
 
 🔗 View the live app here [here](https://linkedin-clone-gylh.onrender.com)
 
-> **Note:** The app may take up to a minute to load on first visit.  
+⚠️ Please note: 
+> The app may take up to a minute to load on first visit.  
 > This is due to hosting on free Render services, which spin down inactive instances.
 
 ---
